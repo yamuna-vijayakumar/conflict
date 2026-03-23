@@ -5,7 +5,6 @@ console.log(name1);
 let a = "files add"
 let b ="123"
 console.log(a)
-<<<<<<< HEAD
 
 
 console.log("yamu");
@@ -17,7 +16,4 @@ console.log(MANO);
 console.log("priya");
 
 console.log(HGHGHGHGHGHGHGH);
-=======
-console.log("asd")
-console.log("hi")
->>>>>>> 31994e8 (v10)
+hjhjjhjhj
