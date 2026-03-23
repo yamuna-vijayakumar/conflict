@@ -7,3 +7,4 @@ let b ="123"
 console.log(a)
 console.log("asd")
 console.log("hi")
+console.log("hello")
