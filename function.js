@@ -8,3 +8,4 @@ console.log(a)
 console.log("asd")
 console.log("hi")
 console.log("hello")
+console.log(yamu);
