@@ -5,7 +5,17 @@ console.log(name1);
 let a = "files add"
 let b ="123"
 console.log(a)
-console.log("asd")
-console.log("hi")
-console.log("hello")
-console.log(yamu);
+
+
+console.log("yamu");
+
+console.log("VIJAYA");
+
+console.log(MANO);
+
+console.log("priya");
+
+console.log(HGHGHGHGHGHGHGH);
+hjhjjhjhj
+
+yamuna aatrilae yamuna .....
